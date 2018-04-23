@@ -56,6 +56,7 @@ app.controller('mainCtrl', function($scope, recognizeService) {
 
     // Danh sách idol
     $scope.idols = [
+        "Azai Lâm :D",
         "Ngọc Trinh",
         "Bà tưng",
         "Hường Hana",
