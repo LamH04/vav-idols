@@ -52,7 +52,7 @@ app.controller('mainCtrl', function($scope, recognizeService) {
     }
 
     // Danh sách ảnh để test
-    $scope.testImages = ["https://2sao.vietnamnetjsc.vn/images/2018/03/17/13/25/ngoc-trinh-490.jpg?width=272", "https://image.thanhnien.vn/1600/uploaded/minhnguyet/2018_03_08/thegioisao_keck.jpg", "http://giadinh.mediacdn.vn/2018/miule-1514855570627.jpg", "http://st.phunuonline.com.vn/staticFile/Subject/2017/07/26/miu-le_26239710.jpg", "http://afamilycdn.com/k:Td4EBEVRUi6eAzdFEeWhA6s7HNamNF/Image/2013/03/Hinh-3-06139/angela-phuong-trinh-ba-me-nhi-den-nu-hoang-thi-phi.jpg"];
+    $scope.testImages = ["https://2sao.vietnamnetjsc.vn/images/2018/03/17/13/25/ngoc-trinh-490.jpg?width=272", "https://image.thanhnien.vn/1600/uploaded/minhnguyet/2018_03_08/thegioisao_keck.jpg", "http://giadinh.mediacdn.vn/2018/miule-1514855570627.jpg", "http://st.phunuonline.com.vn/staticFile/Subject/2017/07/26/miu-le_26239710.jpg", "http://afamilycdn.com/k:Td4EBEVRUi6eAzdFEeWhA6s7HNamNF/Image/2013/03/Hinh-3-06139/angela-phuong-trinh-ba-me-nhi-den-nu-hoang-thi-phi.jpg","http://res.cloudinary.com/ddouydgvm/image/upload/v1524465923/16649082_1369366266468455_1020919638985496913_n.jpg"];
 
     // Danh sách idol
     $scope.idols = [
